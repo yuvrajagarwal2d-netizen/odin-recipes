@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+I'm Yuvraj Agarwal, and I'm doing the Odin Project. This is my first project isnide the curriculum. In this, I will demonstrate my HTML skills to build a recipie page with links to other pages with more recipies. Later, after I hvae learned CSS, I will edit this project to make it look better.
